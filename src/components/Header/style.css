@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  padding-top: 15px;
+}
+
+.nav a {
+  padding-left: 35px;
+  text-decoration: none;
+  line-height: 30px;
+}
+
+.quadrado img {
+  width: 30px;
+}

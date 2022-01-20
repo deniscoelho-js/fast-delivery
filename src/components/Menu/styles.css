@@ -1,0 +1,50 @@
+.main {
+  display: flex;
+}
+
+.img-menu img {
+  width: 50%;
+  border-radius: 15px;
+  margin-left: 290px;
+}
+
+.container-menu {
+  padding-top: 200px;
+}
+
+.container-title {
+  padding: 50px 0;
+  max-width: 250px;
+}
+
+.container-title .text {
+  padding-top: 15px;
+}
+
+.buttons {
+  display: inline-block;
+  background-color: #efefef;
+  border-radius: 8px;
+}
+
+.buttons button {
+  padding: 7px 37px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+}
+
+.buttons button:focus {
+  background-color: #ffb800;
+  color: #fff;
+}
+
+.btn button {
+  padding: 17px 45px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  color: #fff;
+  background-image: linear-gradient(to right, #ffb800, #fa690f);
+  font-size: 16px;
+}
